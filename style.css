@@ -1,0 +1,16 @@
+button {
+background-color: #008CBA;
+font-size: 12px;
+padding: 5px 15px;
+border-radius: 4px;
+border: 2px solid #008CBA;
+font-size:18px;
+font-weight:bold;
+}
+header{
+font-size:26;
+font-weight:bold;
+color: blue;
+}
+input:valid{color:blue;}
+input:invalid{color:red;}
